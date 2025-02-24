@@ -1,2 +1,1 @@
-# cyb-102
-Intermediate Cybersecurity Course
+# Intermediate Cybersecurity Course
