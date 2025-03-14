@@ -1,1 +1,1 @@
-# Intermediate Cybersecurity Course
+# UDACITY - Image Classification
